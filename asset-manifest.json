@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/maika/static/css/main.ea80d788.chunk.css",
+    "main.js": "/maika/static/js/main.c5d03967.chunk.js",
+    "main.js.map": "/maika/static/js/main.c5d03967.chunk.js.map",
+    "runtime-main.js": "/maika/static/js/runtime-main.b296594e.js",
+    "runtime-main.js.map": "/maika/static/js/runtime-main.b296594e.js.map",
+    "static/js/2.e1ddfeb9.chunk.js": "/maika/static/js/2.e1ddfeb9.chunk.js",
+    "static/js/2.e1ddfeb9.chunk.js.map": "/maika/static/js/2.e1ddfeb9.chunk.js.map",
+    "index.html": "/maika/index.html",
+    "precache-manifest.b4371abf5fbb97bf3b690d7d1656257c.js": "/maika/precache-manifest.b4371abf5fbb97bf3b690d7d1656257c.js",
+    "service-worker.js": "/maika/service-worker.js",
+    "static/css/main.ea80d788.chunk.css.map": "/maika/static/css/main.ea80d788.chunk.css.map",
+    "static/js/2.e1ddfeb9.chunk.js.LICENSE.txt": "/maika/static/js/2.e1ddfeb9.chunk.js.LICENSE.txt",
+    "static/media/photo4.jpg": "/maika/static/media/photo4.e8ae12d2.jpg",
+    "static/media/photo5.jpg": "/maika/static/media/photo5.8878ed49.jpg",
+    "static/media/video-me.mp4": "/maika/static/media/video-me.4511cd56.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b296594e.js",
+    "static/js/2.e1ddfeb9.chunk.js",
+    "static/css/main.ea80d788.chunk.css",
+    "static/js/main.c5d03967.chunk.js"
+  ]
+}
