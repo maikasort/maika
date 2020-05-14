@@ -1,27 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "66c13ff216d2fa56be9c7317f08857b0",
+    "revision": "7ec6eab1ea6f0635a11ba9f6a3b72278",
     "url": "/maika/index.html"
   },
   {
-    "revision": "92b9a6e87a3fb051c6c8",
+    "revision": "5a8f9eab93819c0e240f",
     "url": "/maika/static/css/main.ea80d788.chunk.css"
   },
   {
-    "revision": "53ce83c91609cd294a05",
-    "url": "/maika/static/js/2.e1ddfeb9.chunk.js"
+    "revision": "7b7bc770b18e4a92bcf5",
+    "url": "/maika/static/js/2.c7f987eb.chunk.js"
   },
   {
     "revision": "3e30755253c48b562917e8850d8c975b",
-    "url": "/maika/static/js/2.e1ddfeb9.chunk.js.LICENSE.txt"
+    "url": "/maika/static/js/2.c7f987eb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "92b9a6e87a3fb051c6c8",
-    "url": "/maika/static/js/main.c5d03967.chunk.js"
+    "revision": "5a8f9eab93819c0e240f",
+    "url": "/maika/static/js/main.1b2448dd.chunk.js"
   },
   {
     "revision": "d334aa9222f26e4c1104",
     "url": "/maika/static/js/runtime-main.b296594e.js"
+  },
+  {
+    "revision": "c0dec0943aaf147463548287bd0638eb",
+    "url": "/maika/static/media/AR.c0dec094.png"
+  },
+  {
+    "revision": "1134ff2799f16047544c06bec8b8b81b",
+    "url": "/maika/static/media/fauni.1134ff27.png"
+  },
+  {
+    "revision": "13db119c81a1facd53ab5ac52c6463ab",
+    "url": "/maika/static/media/lucki.13db119c.png"
   },
   {
     "revision": "e8ae12d2ef1b4bc5488f645823842a0a",
