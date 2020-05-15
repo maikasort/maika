@@ -1,28 +1,25 @@
 {
   "files": {
-    "main.css": "/maika/static/css/main.ea80d788.chunk.css",
-    "main.js": "/maika/static/js/main.ccc868de.chunk.js",
-    "main.js.map": "/maika/static/js/main.ccc868de.chunk.js.map",
+    "main.css": "/maika/static/css/main.91092784.chunk.css",
+    "main.js": "/maika/static/js/main.6a955e5c.chunk.js",
+    "main.js.map": "/maika/static/js/main.6a955e5c.chunk.js.map",
     "runtime-main.js": "/maika/static/js/runtime-main.b296594e.js",
     "runtime-main.js.map": "/maika/static/js/runtime-main.b296594e.js.map",
-    "static/js/2.c7f987eb.chunk.js": "/maika/static/js/2.c7f987eb.chunk.js",
-    "static/js/2.c7f987eb.chunk.js.map": "/maika/static/js/2.c7f987eb.chunk.js.map",
+    "static/js/2.6bf7b821.chunk.js": "/maika/static/js/2.6bf7b821.chunk.js",
+    "static/js/2.6bf7b821.chunk.js.map": "/maika/static/js/2.6bf7b821.chunk.js.map",
     "index.html": "/maika/index.html",
-    "precache-manifest.99f2a00865eeb6633e0e8149a7726741.js": "/maika/precache-manifest.99f2a00865eeb6633e0e8149a7726741.js",
+    "precache-manifest.0e1881eb35290f3ed085cb93301b367f.js": "/maika/precache-manifest.0e1881eb35290f3ed085cb93301b367f.js",
     "service-worker.js": "/maika/service-worker.js",
-    "static/css/main.ea80d788.chunk.css.map": "/maika/static/css/main.ea80d788.chunk.css.map",
-    "static/js/2.c7f987eb.chunk.js.LICENSE.txt": "/maika/static/js/2.c7f987eb.chunk.js.LICENSE.txt",
+    "static/css/main.91092784.chunk.css.map": "/maika/static/css/main.91092784.chunk.css.map",
+    "static/js/2.6bf7b821.chunk.js.LICENSE.txt": "/maika/static/js/2.6bf7b821.chunk.js.LICENSE.txt",
     "static/media/AR.png": "/maika/static/media/AR.c0dec094.png",
-    "static/media/fauni.png": "/maika/static/media/fauni.df977975.png",
-    "static/media/lucki.png": "/maika/static/media/lucki.0b0b288c.png",
-    "static/media/photo4.jpg": "/maika/static/media/photo4.e8ae12d2.jpg",
     "static/media/photo5.jpg": "/maika/static/media/photo5.8878ed49.jpg",
     "static/media/video-me.mp4": "/maika/static/media/video-me.4511cd56.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.b296594e.js",
-    "static/js/2.c7f987eb.chunk.js",
-    "static/css/main.ea80d788.chunk.css",
-    "static/js/main.ccc868de.chunk.js"
+    "static/js/2.6bf7b821.chunk.js",
+    "static/css/main.91092784.chunk.css",
+    "static/js/main.6a955e5c.chunk.js"
   ]
 }
