@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/maika/static/css/main.91092784.chunk.css",
-    "main.js": "/maika/static/js/main.6a955e5c.chunk.js",
-    "main.js.map": "/maika/static/js/main.6a955e5c.chunk.js.map",
+    "main.js": "/maika/static/js/main.a11f45e6.chunk.js",
+    "main.js.map": "/maika/static/js/main.a11f45e6.chunk.js.map",
     "runtime-main.js": "/maika/static/js/runtime-main.b296594e.js",
     "runtime-main.js.map": "/maika/static/js/runtime-main.b296594e.js.map",
     "static/js/2.6bf7b821.chunk.js": "/maika/static/js/2.6bf7b821.chunk.js",
     "static/js/2.6bf7b821.chunk.js.map": "/maika/static/js/2.6bf7b821.chunk.js.map",
     "index.html": "/maika/index.html",
-    "precache-manifest.0e1881eb35290f3ed085cb93301b367f.js": "/maika/precache-manifest.0e1881eb35290f3ed085cb93301b367f.js",
+    "precache-manifest.3cc73818c6154ab1ab8bd1bf9e5ef50f.js": "/maika/precache-manifest.3cc73818c6154ab1ab8bd1bf9e5ef50f.js",
     "service-worker.js": "/maika/service-worker.js",
     "static/css/main.91092784.chunk.css.map": "/maika/static/css/main.91092784.chunk.css.map",
     "static/js/2.6bf7b821.chunk.js.LICENSE.txt": "/maika/static/js/2.6bf7b821.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.b296594e.js",
     "static/js/2.6bf7b821.chunk.js",
     "static/css/main.91092784.chunk.css",
-    "static/js/main.6a955e5c.chunk.js"
+    "static/js/main.a11f45e6.chunk.js"
   ]
 }
