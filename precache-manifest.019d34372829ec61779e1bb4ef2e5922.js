@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "84630f1e9314f58fe0edd81667a35394",
+    "revision": "82ade256fe359f918e64e569bff8e174",
     "url": "/maika/index.html"
   },
   {
-    "revision": "1730576cf62dc00d1e84",
+    "revision": "97e45eccd3bd645e0f0f",
     "url": "/maika/static/css/main.91092784.chunk.css"
   },
   {
-    "revision": "f4b16b6cd3e7208a2f0a",
-    "url": "/maika/static/js/2.6bf7b821.chunk.js"
+    "revision": "0dcd2c2f7ee7412907c4",
+    "url": "/maika/static/js/2.12e462ab.chunk.js"
   },
   {
     "revision": "a108088b0317a4b3eaee2a12a54f856c",
-    "url": "/maika/static/js/2.6bf7b821.chunk.js.LICENSE.txt"
+    "url": "/maika/static/js/2.12e462ab.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1730576cf62dc00d1e84",
-    "url": "/maika/static/js/main.a11f45e6.chunk.js"
+    "revision": "97e45eccd3bd645e0f0f",
+    "url": "/maika/static/js/main.6deade67.chunk.js"
   },
   {
     "revision": "d334aa9222f26e4c1104",
