@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/maika/static/css/main.91092784.chunk.css",
-    "main.js": "/maika/static/js/main.6deade67.chunk.js",
-    "main.js.map": "/maika/static/js/main.6deade67.chunk.js.map",
+    "main.js": "/maika/static/js/main.a0167595.chunk.js",
+    "main.js.map": "/maika/static/js/main.a0167595.chunk.js.map",
     "runtime-main.js": "/maika/static/js/runtime-main.b296594e.js",
     "runtime-main.js.map": "/maika/static/js/runtime-main.b296594e.js.map",
-    "static/js/2.12e462ab.chunk.js": "/maika/static/js/2.12e462ab.chunk.js",
-    "static/js/2.12e462ab.chunk.js.map": "/maika/static/js/2.12e462ab.chunk.js.map",
+    "static/js/2.6bf7b821.chunk.js": "/maika/static/js/2.6bf7b821.chunk.js",
+    "static/js/2.6bf7b821.chunk.js.map": "/maika/static/js/2.6bf7b821.chunk.js.map",
     "index.html": "/maika/index.html",
-    "precache-manifest.019d34372829ec61779e1bb4ef2e5922.js": "/maika/precache-manifest.019d34372829ec61779e1bb4ef2e5922.js",
+    "precache-manifest.2171e35601e23d1ff627ac7fd0f50704.js": "/maika/precache-manifest.2171e35601e23d1ff627ac7fd0f50704.js",
     "service-worker.js": "/maika/service-worker.js",
     "static/css/main.91092784.chunk.css.map": "/maika/static/css/main.91092784.chunk.css.map",
-    "static/js/2.12e462ab.chunk.js.LICENSE.txt": "/maika/static/js/2.12e462ab.chunk.js.LICENSE.txt",
+    "static/js/2.6bf7b821.chunk.js.LICENSE.txt": "/maika/static/js/2.6bf7b821.chunk.js.LICENSE.txt",
     "static/media/AR.png": "/maika/static/media/AR.c0dec094.png",
     "static/media/photo5.jpg": "/maika/static/media/photo5.8878ed49.jpg",
     "static/media/video-me.mp4": "/maika/static/media/video-me.4511cd56.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.b296594e.js",
-    "static/js/2.12e462ab.chunk.js",
+    "static/js/2.6bf7b821.chunk.js",
     "static/css/main.91092784.chunk.css",
-    "static/js/main.6deade67.chunk.js"
+    "static/js/main.a0167595.chunk.js"
   ]
 }
